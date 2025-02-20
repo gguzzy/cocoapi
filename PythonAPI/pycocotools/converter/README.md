@@ -20,7 +20,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/gguzzy/coco-annotation-converter.git](https://github.com/gguzzy/coco-annotation-converter.git)
+    git clone https://github.com/gguzzy/coco-annotation-converter.git
     cd coco-annotation-converter
     ```
 
